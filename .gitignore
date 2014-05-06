@@ -24,3 +24,6 @@ doc/
 .DS_Store
 .idea
 .secret
+
+# Ignore database.yml per railstutorial.org suggestion for security
+/config/database.yml
